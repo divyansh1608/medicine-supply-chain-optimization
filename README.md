@@ -1,4 +1,4 @@
-# medicine-supply-chain-optimization
+# Medicine-supply-chain-optimization
 
 # What does this project do?
 Hospitals and pharmacies face a balancing act: if they order too little medicine, they run out and patients suffer. If they order too much, the medicine expires on the shelves and money is wasted. This project tracks medicine inventory across multiple regional hubs to predict stockouts and identify medicines that are dangerously close to expiring.
